@@ -1,0 +1,111 @@
+2019-03-27 10:35:38,318 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2019-03-27 10:35:40,360 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2019-03-27 10:35:40,456 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2019-03-27 10:35:40,692 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2019-03-27 10:35:40,693 INFO o.a.j.JMeter: Version 3.2 r1790748
+2019-03-27 10:35:40,693 INFO o.a.j.JMeter: java.version=1.8.0_201
+2019-03-27 10:35:40,693 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-03-27 10:35:40,693 INFO o.a.j.JMeter: os.name=Windows 10
+2019-03-27 10:35:40,693 INFO o.a.j.JMeter: os.arch=amd64
+2019-03-27 10:35:40,693 INFO o.a.j.JMeter: os.version=10.0
+2019-03-27 10:35:40,693 INFO o.a.j.JMeter: file.encoding=Cp1252
+2019-03-27 10:35:40,693 INFO o.a.j.JMeter: Max memory     =536870912
+2019-03-27 10:35:40,693 INFO o.a.j.JMeter: Available Processors =8
+2019-03-27 10:35:40,699 INFO o.a.j.JMeter: Default Locale=English (United States)
+2019-03-27 10:35:40,699 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2019-03-27 10:35:40,700 INFO o.a.j.JMeter: JMeterHome=D:\Haris\Softwares\apache-jmeter-3.2\apache-jmeter-3.2
+2019-03-27 10:35:40,700 INFO o.a.j.JMeter: user.dir  =D:\Haris\Softwares\apache-jmeter-3.2\apache-jmeter-3.2\bin
+2019-03-27 10:35:40,700 INFO o.a.j.JMeter: PWD       =D:\Haris\Softwares\apache-jmeter-3.2\apache-jmeter-3.2\bin
+2019-03-27 10:35:40,840 INFO o.a.j.JMeter: IP: 192.168.22.107 Name: DESKTOP-OUP8KBL FullName: 192.168.22.107
+2019-03-27 10:35:41,112 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform]
+2019-03-27 10:35:41,116 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-03-27 10:35:48,746 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2019-03-27 10:35:48,746 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2019-03-27 10:35:58,271 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2019-03-27 10:36:05,018 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2019-03-27 10:36:05,043 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2019-03-27 10:36:05,061 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-03-27 10:36:05,062 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-03-27 10:36:05,062 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-03-27 10:36:05,062 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-03-27 10:36:05,062 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-03-27 10:36:05,062 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-03-27 10:36:08,355 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-03-27 10:36:08,355 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file D:\Haris\Softwares\apache-jmeter-3.2\apache-jmeter-3.2\bin\proxyserver.jks
+2019-03-27 10:36:10,178 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2019-03-27 10:36:10,201 INFO o.a.j.s.FileServer: Default base='D:\Haris\Softwares\apache-jmeter-3.2\apache-jmeter-3.2\bin'
+2019-03-27 10:36:10,261 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2019-03-27 10:36:10,262 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2019-03-27 10:36:10,642 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2019-03-27 10:36:10,662 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2019-03-27 10:36:11,181 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-03-27 10:36:11,181 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-03-27 10:36:11,182 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-03-27 10:36:11,182 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-03-27 10:43:44,279 WARN o.a.j.p.h.p.ProxyControl: Could not read key store Keystore was tampered with, or password was incorrect; cause: Password verification failed, a new one will be created, ensure you install it in browser
+java.io.IOException: Keystore was tampered with, or password was incorrect
+	at sun.security.provider.JavaKeyStore.engineLoad(Unknown Source) ~[?:1.8.0_201]
+	at sun.security.provider.JavaKeyStore$JKS.engineLoad(Unknown Source) ~[?:1.8.0_201]
+	at sun.security.provider.KeyStoreDelegator.engineLoad(Unknown Source) ~[?:1.8.0_201]
+	at sun.security.provider.JavaKeyStore$DualFormatJKS.engineLoad(Unknown Source) ~[?:1.8.0_201]
+	at java.security.KeyStore.load(Unknown Source) ~[?:1.8.0_201]
+	at org.apache.jmeter.protocol.http.proxy.ProxyControl.getKeyStore(ProxyControl.java:1570) ~[ApacheJMeter_http.jar:3.2 r1790748]
+	at org.apache.jmeter.protocol.http.proxy.ProxyControl.initDynamicKeyStore(ProxyControl.java:1461) [ApacheJMeter_http.jar:3.2 r1790748]
+	at org.apache.jmeter.protocol.http.proxy.ProxyControl.initKeyStore(ProxyControl.java:1416) [ApacheJMeter_http.jar:3.2 r1790748]
+	at org.apache.jmeter.protocol.http.proxy.ProxyControl.startProxy(ProxyControl.java:511) [ApacheJMeter_http.jar:3.2 r1790748]
+	at org.apache.jmeter.protocol.http.proxy.gui.ProxyControlGui.startProxy(ProxyControlGui.java:543) [ApacheJMeter_http.jar:3.2 r1790748]
+	at org.apache.jmeter.protocol.http.proxy.gui.ProxyControlGui.actionPerformed(ProxyControlGui.java:393) [ApacheJMeter_http.jar:3.2 r1790748]
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source) [?:1.8.0_201]
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source) [?:1.8.0_201]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source) [?:1.8.0_201]
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source) [?:1.8.0_201]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source) [?:1.8.0_201]
+	at java.awt.Component.processMouseEvent(Unknown Source) [?:1.8.0_201]
+	at javax.swing.JComponent.processMouseEvent(Unknown Source) [?:1.8.0_201]
+	at java.awt.Component.processEvent(Unknown Source) [?:1.8.0_201]
+	at java.awt.Container.processEvent(Unknown Source) [?:1.8.0_201]
+	at java.awt.Component.dispatchEventImpl(Unknown Source) [?:1.8.0_201]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) [?:1.8.0_201]
+	at java.awt.Component.dispatchEvent(Unknown Source) [?:1.8.0_201]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source) [?:1.8.0_201]
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source) [?:1.8.0_201]
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source) [?:1.8.0_201]
+	at java.awt.Container.dispatchEventImpl(Unknown Source) [?:1.8.0_201]
+	at java.awt.Window.dispatchEventImpl(Unknown Source) [?:1.8.0_201]
+	at java.awt.Component.dispatchEvent(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventQueue.access$500(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventQueue$3.run(Unknown Source) [?:1.8.0_201]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_201]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_201]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventQueue$4.run(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventQueue$4.run(Unknown Source) [?:1.8.0_201]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_201]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventQueue.dispatchEvent(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source) [?:1.8.0_201]
+	at java.awt.EventDispatchThread.run(Unknown Source) [?:1.8.0_201]
+Caused by: java.security.UnrecoverableKeyException: Password verification failed
+	... 47 more
+2019-03-27 10:43:44,806 INFO o.a.j.p.h.p.ProxyControl: Creating HTTP(S) Test Script Recorder Root CA in D:\Haris\Softwares\apache-jmeter-3.2\apache-jmeter-3.2\bin\proxyserver.jks, ensure you install certificate in your Browser for recording
+2019-03-27 10:43:49,668 INFO o.a.j.p.h.p.ProxyControl: Created keystore in D:\Haris\Softwares\apache-jmeter-3.2\apache-jmeter-3.2\bin\proxyserver.jks
+2019-03-27 10:43:49,671 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8181
+2019-03-27 10:43:49,682 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2019-03-27 10:43:52,547 INFO o.a.j.p.h.p.Proxy: Proxy will remove the headers: If-Modified-Since,If-None-Match,Host
+2019-03-27 10:43:53,892 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-OUP8KBL
+2019-03-27 10:43:54,435 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2019-03-27 10:43:55,402 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2019-03-27 10:43:56,395 INFO o.a.j.p.h.p.ProxyControl: [56615] Creating entry push.services.mozilla.com in D:\Haris\Softwares\apache-jmeter-3.2\apache-jmeter-3.2\bin\proxyserver.jks
+2019-03-27 10:43:59,252 INFO o.a.j.p.h.p.Proxy: [56615] KeyStore for SSL loaded OK and put host 'push.services.mozilla.com' in map with key (push.services.mozilla.com)
+2019-03-27 10:43:59,728 WARN o.a.j.p.h.p.Proxy: [56615] Problem with SSL certificate for 'push.services.mozilla.com'? Ensure browser is set to accept the JMeter proxy cert: Software caused connection abort: recv failed
+2019-03-27 10:44:36,555 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2019-03-27 10:49:30,134 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2019-03-27 10:49:30,134 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2019-03-27 10:49:30,134 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8181
+2019-03-27 10:49:30,134 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
